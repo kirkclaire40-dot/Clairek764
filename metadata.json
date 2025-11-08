@@ -1,0 +1,9 @@
+{
+  "name": "Divine Promises Daily",
+  "description": "An interactive spiritual companion app designed to help you learn, experience, and apply God's promises in your daily life through AI-powered tools for chat, content creation, and deep study.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
